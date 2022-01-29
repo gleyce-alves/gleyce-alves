@@ -1,4 +1,4 @@
-<h1> Hi, I'm Gleyce! <img src="https://media3.giphy.com/media/r4NmiksbjvMPe/200w.gif?cid=82a1493bk8ic6t6ssef2ctb5uvz9szyuychyy8exxzwr428u&rid=200w.gif&ct=g" width="50"></h2>
+<h2> Hi, I'm Gleyce! <img src="https://media3.giphy.com/media/r4NmiksbjvMPe/200w.gif?cid=82a1493bk8ic6t6ssef2ctb5uvz9szyuychyy8exxzwr428u&rid=200w.gif&ct=g" width="30"></h2>
 <img align='right' src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="230">
 <p><em> Master's Degree candidate in statistics at <a href="http://www.ufrpe.br/">UFRPE</a>;
 </br> Licentiate in Physics at <a href="http://www.ufrpe.br/">UFRPE</a>;
