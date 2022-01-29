@@ -1,13 +1,11 @@
-<h2> Hi, I'm Gleyce! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Gleyce! <img src="https://media3.giphy.com/media/r4NmiksbjvMPe/200w.gif?cid=82a1493bk8ic6t6ssef2ctb5uvz9szyuychyy8exxzwr428u&rid=200w.gif&ct=g" width="50"></h2>
 <img align='right' src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="230">
-<p><em> Master's Degree candidate in statistics at <a href="http://www.ufrpe.br/">UFRPE</a>
-</br> Licentiate in Physics at <a href="http://www.ufrpe.br/">UFRPE</a>
-</br> [Expected Graduation: December 2025] B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE</a>
-</br> A passionate backend developer from Brazil</em></p>
+<p><em> Master's Degree candidate in statistics at <a href="http://www.ufrpe.br/">UFRPE</a>;
+</br> Licentiate in Physics at <a href="http://www.ufrpe.br/">UFRPE</a>;
+</br>B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE </a>  [Expected Graduation: December 2025].
 
 - 📫 How to reach me **gleyce.ufrpe@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/gleyce-alves-2290511b5/](https://www.linkedin.com/in/gleyce-alves-2290511b5/)
-- ⚡ Fun fact **passionate about manga, comics, video games and music.**
+- ⚡ Fun fact **passionate about comics, video games and music.**
 
 ![Snake animation](https://github.com/gleyce-alves/gleyce-alves/blob/output/github-contribution-grid-snake.svg)
 
