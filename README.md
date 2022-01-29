@@ -4,11 +4,7 @@
 </br> Licentiate in Physics at <a href="http://www.ufrpe.br/">UFRPE</a>;
 </br>B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE </a>  [Expected Graduation: December 2025].
 
-[![Twitter: gleyceDSalves](https://img.shields.io/twitter/follow/gleyceDSalves?style=social)](https://twitter.com/gleyceDSalves)
-[![Linkedin: gleyce-alves](https://img.shields.io/badge/-gleycealves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyce-alves-2290511b5/)](https://www.linkedin.com/in/gleyce-alves-2290511b5/)
-[![GitHub gleyce-alves](https://img.shields.io/github/followers/gleyce?label=follow&style=social)](https://github.com/gleyce-alves)
-
-## 🔧 Technologies & Tools
+<h2> Technologies & Tools </h2>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
@@ -20,8 +16,8 @@
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.Net&logoColor=white&color=6aa6f8)
 
 <div>
 <a href="https://github.com/gleyce-alves">
@@ -29,3 +25,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleyce-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<h2> Conect with me </h2>
+  
+<a href="https://github.com/gleyce-alves" alt="github" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gleyce-alves-2290511b5/" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="gleyce.ufrpe@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" /> </a>
