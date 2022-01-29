@@ -8,11 +8,6 @@
 [![Linkedin: gleyce-alves](https://img.shields.io/badge/-gleycealves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyce-alves-2290511b5/)](https://www.linkedin.com/in/gleyce-alves-2290511b5/)
 [![GitHub gleyce-alves](https://img.shields.io/github/followers/gleyce?label=follow&style=social)](https://github.com/gleyce-alves)
 
-- 📫 How to reach me **gleyce.ufrpe@gmail.com**
-- ⚡ Fun fact **passionate about comics, video games and music.**
-
-![Snake animation](https://github.com/gleyce-alves/gleyce-alves/blob/output/github-contribution-grid-snake.svg)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -32,23 +27,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleyce-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+![Snake animation](https://github.com/gleyce-alves/gleyce-alves/blob/output/github-contribution-grid-snake.svg)
