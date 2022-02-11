@@ -1,6 +1,6 @@
 <h2> Hi, I'm Gleyce! <img src="https://media3.giphy.com/media/r4NmiksbjvMPe/200w.gif?cid=82a1493bk8ic6t6ssef2ctb5uvz9szyuychyy8exxzwr428u&rid=200w.gif&ct=g" width="30"></h2>
 <img align='right' src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="230">
-<p><em> Master's Degree candidate in statistics at <a href="http://www.ufrpe.br/">UFRPE</a>;
+<p><em> Master's Degree candidate in Statistics at <a href="http://www.ufrpe.br/">UFRPE</a>;
 </br> Bachelor of Science in Physics with Brazilian Teaching License at <a href="http://www.ufrpe.br/">UFRPE</a>;
 </br>B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE </a>  [Expected Graduation: December 2025].
 
