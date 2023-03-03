@@ -4,7 +4,7 @@
 <p><em> Specialization in Artificial Intelligence and Robotics at <a href="https://residenciarobotica.cin.ufpe.br/">CIN UFPE</a>;
 <p><em> M.Sc. in Math and Statistics at <a href="http://www.ufrpe.br/">UFRPE</a>;
 </br> Bachelor of Science in Physics with Brazilian Teaching License at <a href="http://www.ufrpe.br/">UFRPE</a>;
-</br>B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE </a>  [Expected Graduation: December 2025].
+</br>B.Sc. in Information Systems at <a href="http://www.ufrpe.br/">UFRPE </a>  [Expected Graduation: December 2026].
 
 <h2> Technologies & Tools </h2>
 
